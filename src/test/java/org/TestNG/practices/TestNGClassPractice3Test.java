@@ -22,7 +22,6 @@ public class TestNGClassPractice3Test {
 	public void Test3() {
 		System.out.println("Test1 -> class1");
 		System.out.println("Test1 -> class2");
-		System.out.println("Test1 -> class3");
 		System.out.println("Test3 -> class3");
 		
 	}
