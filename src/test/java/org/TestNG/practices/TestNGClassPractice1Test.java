@@ -19,6 +19,8 @@ public class TestNGClassPractice1Test {
 	@Test
 	public void Test2() {
 		System.out.println("Test2 -> class1");
+		System.out.println("Test3 -> class1");
+		System.out.println("Test4 -> class1");
 		
 	}
 	@Test
